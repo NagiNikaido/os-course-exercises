@@ -1,4 +1,4 @@
-# 03-1-spoc-discussion.md
+# 03-1-spoc-discussion
 
 计44 黄锐皓 2014011385
 
